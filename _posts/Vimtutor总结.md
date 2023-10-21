@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vimtutor总结
-categories: [Java]
+categories: [vim]
 description: 读了vim的vimtutor，总结下内容
 keywords: vim, linux
 mermaid: false
