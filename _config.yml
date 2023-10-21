@@ -168,7 +168,7 @@ beaudar:
     repo: tjianyu/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: tjianyu/tjianyu.github.io/blog-comments
+    repo: blog-comments
     repo-id: 
     category: Announcements
     category-id: 
