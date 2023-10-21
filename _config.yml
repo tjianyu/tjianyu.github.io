@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://tjianyu.github.io
+url: https://tjianyu.github.io
 date_format: "ordinal"
 title: T43
 subtitle: "那叫借鉴"
