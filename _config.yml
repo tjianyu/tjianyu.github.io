@@ -168,10 +168,10 @@ beaudar:
     repo: tjianyu/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: blog-comments
-    repo-id: 
-    category: Announcements
-    category-id: 
+    repo: tjianyu/tjianyu.github.io
+    repo-id: R_kgDOKi7eRw
+    category: General
+    category-id: DIC_kwDOKi7eR84CaUzD
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
